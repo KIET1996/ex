@@ -1,2 +1,11 @@
-asdasd
-asdasda
+git init
+
+git add
+git commit
+git checkout
+git diff
+
+git branch
+
+add new function here
+asd
