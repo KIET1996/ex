@@ -9,3 +9,7 @@ git branch
 
 add new function here
 asd
+
+
+
+modified in branch 'newB'
